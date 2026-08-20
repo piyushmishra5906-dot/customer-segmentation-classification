@@ -1,1 +1,1 @@
-# customer-segmentation-classification
+An end-to-end multi-class customer segmentation machine learning pipeline using HistGradientBoosting, automated feature engineering, and 5-fold cross-validationAn end-to-end multi-class customer segmentation machine learning pipeline using HistGradientBoosting, automated feature engineering, and 5-fold cross-validation
