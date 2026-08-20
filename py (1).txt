@@ -1,0 +1,11 @@
+customer-segmentation-classification/
+│-- data/
+│   ├── Train.csv
+│   ├── Test.csv
+│   └── sample_submission.csv
+│-- output/
+│   └── final_submission.csv
+│-- train_and_predict.py
+│-- requirements.txt
+│-- .gitignore
+└── README.md
